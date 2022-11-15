@@ -1,4 +1,4 @@
 hello, git!
 hello,gitbash!
 hello,gitbash!
-hihihi      hot_fix test
+hi hot_fix
