@@ -1,4 +1,4 @@
 hello, git!     master test
 hello,gitbash!
 hello,gitbash!
-hi master 
+hi master and hot_fix
